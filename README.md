@@ -2,7 +2,6 @@
 I'm Suhail . I've been a software engineer since 2020 and I currently working on app developemnet 📱. <br>
 50% React Native + 50% Angular = Me 💯. 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhail135&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### Happy to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=suhail135)
 <!--
